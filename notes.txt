@@ -1,0 +1,3 @@
+Today I learned more about the uses of GitHub. One such use was in the Git Bash terminal: using the command git clone 'repository-url', I'm able to clone a remote repository into my computer.
+I also learned of the 'mkdir' command, which allowed me to create a directory, or folder, while inside my Git Bash Terminal. 
+I also learned to make a file using my terminal using command 'touch'.
